@@ -1,0 +1,1 @@
+document.getElementById("SC_TBlock_68811").innerHTML='';(new Image).src="//sync2.morgdm.ru/?src=sm1";
